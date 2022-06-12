@@ -31,7 +31,7 @@
 - マイページで管理するゲームの分析機能(〇〇メーカから発売されたゲームのうちn%をプレイ済みなどを表示)
 
 ### スケジュール 
-```mermaid
+```mermaid!
 gantt
   Completed task :crit, done,    t1, 2022-01-03, 3d
   Active task    :      active,  t2, after t1,   3d
