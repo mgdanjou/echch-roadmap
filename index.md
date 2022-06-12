@@ -2,6 +2,8 @@
 
 このページは、試験運用中である[echch]()のロードマップページです。
 
+---
+
 ## echchとは
 
 [echch]()は💕美少女ゲーム💕のレビューサイト(批評サイト)です。  
@@ -18,6 +20,8 @@
 [@isao](https://twitter.com/is_a_o), 
 [@neiphbor](https://twitter.com/neiphbor), 
 お問合せは[こちら]()から!!
+
+---
 
 ## ロードマップ
 
