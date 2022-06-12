@@ -1,39 +1,33 @@
-## Welcome to GitHub Pages
+## :heart: echchのロードマップページへようこそ :heart:
 
-You can use the [editor on GitHub](https://github.com/mgdanjou/echch-roadmap/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+このページは、試験運用中である[echch]()のロードマップページです。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### echchとは
 
-### Markdown
+[echch]()は、美少女ゲームのレビューサイト(批評サイト)です。  
+下記3点のグランドコンセプトをもとに作成しています。  
+2022年7月1日(金)から試験運用を開始しており、現在、鋭意製作中です :sparkless:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*Grand Concept* 
+- 人気のゲームや自分が求めているゲームを簡単に探せる(強力な検索機能)
+- ユーザのレビュー情報を統計的に閲覧できる(レビュー機能と統計的な分析機能)
+- 自分がプレイしたゲーム、積んでいるゲーム、気になっているゲームを管理できる(ゲーム管理機能)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+*製作者*  
+[@isao](https://twitter.com/is_a_o), 
+[@neiphbor](https://twitter.com/neiphbor), 
+お問合せは[こちら]()から!!
 
-- Bulleted
-- List
+## ロードマップ
 
-1. Numbered
-2. List
+### 実装予定の機能
+- [] スマートフォン閲覧時の最適化
+- [] 発売期間別のゲーム一覧機能(発売カレンダー)
+- [] メーカごとの特集ページ
+- [] タグ検索機能
+- [] 各種ランキング情報(独自アルゴリズムに基づく当月発売予定ゲームの注目度ランキングなど)
+- [] レビュー情報の分析機能
+- [] マイページで管理するゲームの分析機能(〇〇メーカから発売されたゲームのうちn%をプレイ済みなどを表示)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mgdanjou/echch-roadmap/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-test
+### スケジュール 
